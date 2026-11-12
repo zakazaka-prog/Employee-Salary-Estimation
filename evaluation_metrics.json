@@ -1,0 +1,8 @@
+{
+    "model": "RandomForestRegressor",
+    "test_rows": 300,
+    "mae_inr": 57211.02,
+    "rmse_inr": 71787.47,
+    "r2_score": 0.9494,
+    "dataset_note": "Synthetic demonstration data; not real market salary data."
+}
