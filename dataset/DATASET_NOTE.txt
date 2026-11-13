@@ -1,9 +1,21 @@
-employee_salary.csv contains synthetic
-demonstration data generated using
-generate_dataset.py.
 
-The dataset contains 1500 sample employee records.
+DATASET NOTE
 
-It is not real employee or market salary data.
-It is intended for educational and machine
-learning practice purposes only.
+File Name: employee_salary.csv
+
+Description:
+This dataset contains 1500 synthetic employee records.
+
+Features:
+1. Job_Role
+2. Experience_Years
+3. Working_Hours_Per_Week
+4. Annual_Salary_INR
+
+Purpose:
+This dataset is created for the Employee Salary Estimation
+Machine Learning project.
+
+Note:
+The dataset contains artificially generated sample data.
+It is not real employee salary information.
