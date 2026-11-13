@@ -157,8 +157,11 @@ Replace `YOUR-USERNAME` with your GitHub username.
 
 ## Author
 
-Add your name and course details here.
+## Author
 
-**Project:** Employee Salary Estimation  
-**Domain:** Machine Learning  
-**Language:** Python
+Mohd Zaka Khalid
+
+Course: BTech CSE
+Project: Employee Salary Estimation
+Domain: Machine Learning
+Language: Python
